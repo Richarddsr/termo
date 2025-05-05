@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log(`Palavra verificada: ${word}`);
         
         // Palavra alvo que o usuário deve adivinhar
-        const targetWord = "PINTO";
+        const targetWord = "TERMO";
         
         // Verifica cada letra da palavra digitada
         const rowInputs = getRowInputs(rowIndex);
